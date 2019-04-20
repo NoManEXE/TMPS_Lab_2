@@ -78,7 +78,7 @@ npc.attack(npc);
 ```
 NPCInfo.printNPCInfo( Adapter.getData( npc ) );
 ```
-![alt text](https://i.imgur.com/LBOMIjJ.png "")
+![alt text](Diagrams/adapter.png "")
 
 Для шаблона Facade в проекте было создано множество классов, с параметрами которые формируют систему сохранений. Для создания обьекта Save, необходимо отослать обьекты World, Npc, Tress, History. Пользователи не имеют доступ к этой части программы, и им доступным только два метода - createSaveFile, и loadFromSaveFile.
 ```
