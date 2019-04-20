@@ -39,6 +39,7 @@ _Подготовил студент группы TI-164, Жданов Викт�
 ## Реализация 
 
 <img src="https://cdn-www.bluestacks.com/bs-images/pd_logo.png" width="400">
+<img src="http://pixeldungeon.watabou.ru/screens/fireball.png" width="400">
 
 
 Идея приложения: имитировать  структуру компьютерной игры Pixel Dungeon.
